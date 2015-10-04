@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NASADailyImage</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_title">image title</string>
+    <string name="image_description">image description</string>
+    <string name="image_date">image date</string>
+</resources>
